@@ -1,5 +1,5 @@
 {
-  "name": "@patym/modern-eleventy-plugin-schema",
+  "name": "@pautym/modern-eleventy-plugin-schema",
   "private": false,
   "publishConfig": {
     "access": "public"
