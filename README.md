@@ -1,5 +1,3 @@
-# @PauTym/modern-eleventy-plugin-schema
-
 [![npm](https://img.shields.io/npm/v/@PauTym/modern-eleventy-plugin-schema)](https://www.npmjs.com/package/@PauTym/modern-eleventy-plugin-schema)
 [![Release workflow](https://github.com/PauTym/modern-eleventy-plugin-schema/workflows/Release/badge.svg)](https://github.com/PauTym/modern-eleventy-plugin-schema/actions?query=workflow%3ARelease)
 [![Test workflow](https://github.com/PauTym/modern-eleventy-plugin-schema/workflows/Test/badge.svg)](https://github.com/PauTym/modern-eleventy-plugin-schema/actions?query=workflow%3ATest)
