@@ -1,5 +1,5 @@
 {
-  "name": "@quasibit/eleventy-plugin-schema",
+  "name": "@patym/modern-eleventy-plugin-schema",
   "private": false,
   "publishConfig": {
     "access": "public"
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/quasibit/eleventy-plugin-schema.git"
+    "url": "git+https://github.com/pautym/modern-eleventy-plugin-schema.git"
   },
   "keywords": [
     "11ty",
@@ -33,15 +33,13 @@
     "schema"
   ],
   "author": {
-    "name": "Nuno Freitas",
-    "email": "nuno.freitas@quasibit.com",
-    "homepage": "https://www.quasibit.com/"
+    "name": "Paul Tymoschtschuk"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/quasibit/eleventy-plugin-schema/issues"
+    "url": "https://github.com/pautym/modern-eleventy-plugin-schema/issues"
   },
-  "homepage": "https://github.com/quasibit/eleventy-plugin-schema#readme",
+  "homepage": "https://github.com/pautym/modern-eleventy-plugin-schema#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@commitlint/cli": "^9.0.1",
