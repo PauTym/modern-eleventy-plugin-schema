@@ -18,14 +18,14 @@
 Install the package:
 
 ```sh
-npm install --save @quasibit/eleventy-plugin-schema
+npm install --save @pautym/modern-eleventy-plugin-schema
 ```
 
 Add the plugin to your [Eleventy configuration](https://www.11ty.dev/docs/config/)
 (usually `.eleventy.js`):
 
 ```js
-const schema = require("@PauTym/modern-eleventy-plugin-schema");
+const schema = require("@pautym/modern-eleventy-plugin-schema");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(schema);
