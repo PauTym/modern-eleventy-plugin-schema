@@ -12,7 +12,6 @@
 - [Introduction](#introduction)
 - [Usage](#usage)
 - [Related plugins](#related-plugins)
-- [Maintainers](#maintainers)
 - [License](#license)
 
 # Thanks to:
