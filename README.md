@@ -1,10 +1,8 @@
 # @PauTym/modern-eleventy-plugin-schema
 
 [![npm](https://img.shields.io/npm/v/@PauTym/modern-eleventy-plugin-schema)](https://www.npmjs.com/package/@PauTym/modern-eleventy-plugin-schema)
-[![Release workflow](https://github.com/quasibit/eleventy-plugin-schema/workflows/Release/badge.svg)](https://github.com/quasibit/eleventy-plugin-schema/actions?query=workflow%3ARelease)
-[![Test workflow](https://github.com/quasibit/eleventy-plugin-schema/workflows/Test/badge.svg)](https://github.com/quasibit/eleventy-plugin-schema/actions?query=workflow%3ATest)
-[![codecov](https://codecov.io/gh/quasibit/eleventy-plugin-schema/branch/master/graph/badge.svg)](https://codecov.io/gh/quasibit/eleventy-plugin-schema)
-[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
+[![Release workflow](https://github.com/PauTym/modern-eleventy-plugin-schema/workflows/Release/badge.svg)](https://github.com/PauTym/modern-eleventy-plugin-schema/actions?query=workflow%3ARelease)
+[![Test workflow](https://github.com/PauTym/modern-eleventy-plugin-schema/workflows/Test/badge.svg)](https://github.com/PauTym/modern-eleventy-plugin-schema/actions?query=workflow%3ATest)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -18,7 +16,7 @@
 - [License](#license)
 
 # Thanks to:
-[quasibit](https://github.com/quasibit) fro creating -[@quasibit/eleventy-plugin-schema](https://github.com/quasibit/eleventy-plugin-schema)
+[quasibit](https://github.com/quasibit) for creating -[@quasibit/eleventy-plugin-schema](https://github.com/quasibit/eleventy-plugin-schema)
 
 ## Installation
 
