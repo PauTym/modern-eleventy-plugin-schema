@@ -1,6 +1,4 @@
-[![npm](https://img.shields.io/npm/v/@PauTym/modern-eleventy-plugin-schema)](https://www.npmjs.com/package/@PauTym/modern-eleventy-plugin-schema)
-[![Release workflow](https://github.com/PauTym/modern-eleventy-plugin-schema/workflows/Release/badge.svg)](https://github.com/PauTym/modern-eleventy-plugin-schema/actions?query=workflow%3ARelease)
-[![Test workflow](https://github.com/PauTym/modern-eleventy-plugin-schema/workflows/Test/badge.svg)](https://github.com/PauTym/modern-eleventy-plugin-schema/actions?query=workflow%3ATest)
+[![npm](https://img.shields.io/npm/v/@pautym/modern-eleventy-plugin-schema)](https://www.npmjs.com/package/@PauTym/modern-eleventy-plugin-schema)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -63,11 +61,6 @@ You can validate the structured data using one of the following tools:
 - [Google's Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/).
 - [JSON-LD Playground](https://json-ld.org/playground/).
 - [JSON Schema Validator](https://www.jsonschemavalidator.net/).
-
-## Related plugins
-
-- [@quasibit/eleventy-plugin-schema](https://github.com/quasibit/eleventy-plugin-schema): original version of this plugin.
-- [@quasibit/eleventy-plugin-sitemap](https://github.com/quasibit/eleventy-plugin-sitemap): generate a sitemap.
 
 ## License
 
