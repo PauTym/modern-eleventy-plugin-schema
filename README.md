@@ -1,5 +1,3 @@
-# This Plugin will be replaced with a dynamic version in the near future
-
 [![npm](https://img.shields.io/npm/v/@pautym/modern-eleventy-plugin-schema)](https://www.npmjs.com/package/@PauTym/modern-eleventy-plugin-schema)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
